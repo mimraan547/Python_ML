@@ -1,5 +1,5 @@
 # PYTHON AND MACHINE LEARNING NATIONAL WORKSHOP
-Hi I attended 7 Days National Workshop on "Python And Machine Learning" from 07-13 June 2021, conducted by <b> THE CODE SCHOLAR</b>.
+Hi I attended 7 Days National Workshop on "Python And Machine Learning" from 07-13 June 2021, conducted by <b> THE CODESCHOLAR</b>.
 
 <br>I got to have hands on experience on:
 <li>Python
@@ -21,14 +21,10 @@ I got to learn a lot during these 7 days and it was an amazing experience learni
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 <a href="http://www.thecodescholar.com"> www.thecodescholar.com </a>
 or follow THE CODE SCHOLAR on:
-<li><a href=
-"https://linkedin.com/company/the-code-scholar">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/thecodescholar">Instagram</a>
-<li><a href=
-"https://youtube.com/channel/UCyG-UNr0u8rIb3Dxq2TAZ9A">YouTube</a>
-<li><a href=
-"https://github.com/thecodescholar">GitHub</a>
-<li><a href=
-"https://twitter.com/thecodescholar_">Twitter</a>
+<li><a href="https://linkedin.com/company/the-code-scholar">LinkedIn</a>
+<li><a href="https://www.instagram.com/thecodescholar">Instagram</a>
+<li><a href="https://youtube.com/channel/UCyG-UNr0u8rIb3Dxq2TAZ9A">YouTube</a>
+<li><a href="https://github.com/thecodescholar">GitHub</a>
+<li><a href="https://twitter.com/thecodescholar_">Twitter</a>
+
 
